@@ -26,3 +26,4 @@ The collection may include:
 | Name | Description | Link | Platform |
 |------------|-------------|------|----------|
 | Fallow | Code audit tool | [Repository](https://github.com/fallow-rs/fallow) | Mixed |
+| Starship | running react native builds wirelessly | [Repository](https://github.com/hasangonen91/react-native-starship) | React Native |
