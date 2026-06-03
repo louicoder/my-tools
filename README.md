@@ -25,4 +25,4 @@ The collection may include:
 
 | Name | Description | Link | Platform |
 |------------|-------------|------|----------|
-| Fallow | Authentication and authorization service | [Repository](https://github.com/fallow-rs/fallow) | Mixed |
+| Fallow | Code audit tool | [Repository](https://github.com/fallow-rs/fallow) | Mixed |
