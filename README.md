@@ -27,3 +27,4 @@ The collection may include:
 |------------|-------------|------|----------|
 | Fallow | Code audit tool | [Repository](https://github.com/fallow-rs/fallow) | Mixed |
 | Starship | running react native builds wirelessly | [Repository](https://github.com/hasangonen91/react-native-starship) | React Native |
+| FZF | A command-line fuzzy finder | [Repository](https://github.com/junegunn/fzf) | Commandline |
